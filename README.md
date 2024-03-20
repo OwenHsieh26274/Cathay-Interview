@@ -1,10 +1,12 @@
 # Cathay-Interview
+
 - 本次實作使用 Google Colab 作為測試平台。
 
-  - [Colab連結](https://colab.research.google.com/drive/1UrttEwBc5GSvXToWG3qNSX7JC8UQOaKX?usp=sharing)
+  - *[Colab連結](https://colab.research.google.com/drive/1UrttEwBc5GSvXToWG3qNSX7JC8UQOaKX?usp=sharing)*
 
+---
 
-- #### ChatGPT的文章總結：
+- **ChatGPT的文章總結：**
 
   國泰金控在面對大規模上雲的挑戰時，透過建立一套方法論和策略來幫助集團各子公司進行系統遷移。他們擬定了一套名為Cathay 6R的雲端遷移方法論，將系統遷移方式依據不同的上雲模式、系統開發成本分為Rehost、Re-platform、Refactor、Rewrite、Replace和Retain共6種遷移架構，對應到IaaS、PaaS、SaaS三種不同上雲模式。通過這套方法論，他們能夠有效協助子公司進行系統上雲的評估和遷移。
 
