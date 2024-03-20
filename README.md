@@ -1,5 +1,4 @@
 # Cathay-Interview
-
 - 本次實作使用 Google Colab 作為測試平台。
 
   - *[Colab連結](https://colab.research.google.com/drive/1UrttEwBc5GSvXToWG3qNSX7JC8UQOaKX?usp=sharing)*
@@ -13,3 +12,9 @@
   除了設計統一的方法論，國泰金控也開發了一個名為CCMA的系統，用於加快各子公司系統上雲的評估作業，透過系統化的方式來分析和分類上雲系統，並提供評估建議和參考，使整個上雲過程更加順利和高效。透過CCMA系統，可以快速了解應用系統的資料性質、開發者、資安需求等，並提供子公司整體應用遷移策略的選擇參考。
 
   藉由6R方法論和CCMA系統的應用，國泰金控能更有效地管理大量系統上雲的需求，並加速整個上雲過程的進行。這些策略對國泰金控在數位轉型和雲端遷移方面起到了關鍵作用，同時也代表了他們對於未來雲端轉型的發展方向和承諾。
+
+<br>
+
+- **參考資料**
+  - OpenAI Document: https://platform.openai.com/docs/introduction
+  - ChatGPT
