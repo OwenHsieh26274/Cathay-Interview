@@ -18,3 +18,4 @@
 - **參考資料**
   - OpenAI Document: https://platform.openai.com/docs/introduction
   - ChatGPT
+  - 新聞稿：https://www.ithome.com.tw/news/152373
